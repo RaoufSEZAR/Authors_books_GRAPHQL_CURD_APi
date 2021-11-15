@@ -13,14 +13,14 @@ SECRET_KEY=YOUR_SECRET_KEY
 ```
 ## User Model:
 - Add an author and crypt password
-- Update user's password
+- Update the user's password
 - delete a user
 
 
 ## Book Model:
 - Add a book
-- Update by the same author his book
-- delete by the same author his book
+- Update books by the same author
+- delete books by the same author
 
 ## the docs for every single api will be like:
 ### Mutaions
