@@ -11,6 +11,17 @@ DB_USER=YOUR_USER_NAME
 DB_PASS=YOUR_DATABASE_PASSWORD
 SECRET_KEY=YOUR_SECRET_KEY
 ```
+## User Model:
+- Add an author and crypt password
+- Update user's password
+- delete a user
+
+
+## Book Model:
+- Add a book
+- Update by the same author his book
+- delete by the same author his book
+
 ## the docs for every single api will be like:
 ### Mutaions
 
