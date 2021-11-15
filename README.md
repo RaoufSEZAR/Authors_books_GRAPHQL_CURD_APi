@@ -23,7 +23,7 @@ SECRET_KEY=YOUR_SECRET_KEY
 - delete books by the same author
 
 ## the docs for every single api will be like:
-### Mutaions
+### Mutations
 
 #### create a new User input
 ```
