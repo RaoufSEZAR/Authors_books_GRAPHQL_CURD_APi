@@ -11,7 +11,7 @@ DB_USER=YOUR_USER_NAME
 DB_PASS=YOUR_DATABASE_PASSWORD
 SECRET_KEY=YOUR_SECRET_KEY
 ```
-## User Model:
+## Author Model:
 - Add an author and crypt password
 - Update the user's password
 - delete a user
