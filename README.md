@@ -1,5 +1,5 @@
 # Authors_books_GRAPHQL_CURD_APi
-This Graphql_api for CURD authors and Books using TypeScript,MySQL, Graphql,Node.js,Express,js and typeORM.
+This Graphql_api for CURD authors and Books using ***TypeScript, MySQL, Graphql, Node.js, Express.js ,Javascript and typeORM.***
 
 ```
 npm install
